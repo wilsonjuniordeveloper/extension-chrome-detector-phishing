@@ -1,0 +1,22 @@
+
+## Instalação
+
+Instale as tipagens necessárias
+
+
+```bash
+  npm install -g typescript
+```
+
+```bash
+  npm install
+```
+
+
+## Build
+
+Para gerar o Build rode o comando a baixo
+
+```bash
+  tsc
+```
