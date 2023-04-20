@@ -1,4 +1,9 @@
 
+# Extensão chrome fake detector phishing bank
+
+Uma Extensão chrome que consome a api da 9creator que detecta phishing com base na url acessada.
+
+
 ## Instalação
 
 Instale as tipagens necessárias
